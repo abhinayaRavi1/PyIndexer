@@ -1,0 +1,4 @@
+makefile:
+	py <filename> <argument>
+output redirect:
+	py <filename> <argument> > <file>.txt
